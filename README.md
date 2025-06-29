@@ -1,12 +1,12 @@
-# Cloud Engineering - Assignment 1
+# Cloud Engineering - Assignment 2
 
 # Description
 
-This is an assignment to showcase my basic personal information as a student in cloud engineering program at ALTSchool.
+This is an assignment to showcase the use table and media in html.
 
 # How to clone the repo
 ```bash
-git clone https://github.com/ekundayoSO/altschool-assignment-1.git
+git clone https://github.com/ekundayoSO/altschool-assignment-2.git
 ```
 
 # Author
